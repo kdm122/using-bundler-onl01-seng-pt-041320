@@ -49,9 +49,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_print (~> 1.8)!
+  awesome_print!
   hashie
-  octokit (= 2.0)
+  octokit (~> 2.0)
   pry
   rspec
   sinatra (= 1.4.4)
